@@ -1,0 +1,41 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header {
+    background-image: url(./images/pattern.jpg);
+    padding: 15px;
+    margin-top: 60px;
+}
+
+strong {
+    color: blue;
+}
+.green{
+    background-color: rgb(127, 190, 32);
+    color: white;
+    font-size: 40px;
+    margin-top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.red{
+    background-color: #f89f9f;
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.blue {
+    background-color: #94d1e5;
+    color: white;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 200;
+}
